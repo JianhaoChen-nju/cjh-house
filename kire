@@ -1,1 +1,34 @@
-<mxfile host="app.diagrams.net" modified="2021-12-06T08:08:45.416Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3879.400 QQBrowser/10.8.4552.400" version="15.9.1" etag="3aroxgJTC5gKaoyHWugg" type="github"><diagram id="pikzheVYUbimWCYy3Wb6">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-06T08:15:29.952Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3879.400 QQBrowser/10.8.4552.400" etag="7_jo4khPRDzNwodgFJSv" version="15.9.1" type="github">
+  <diagram id="pikzheVYUbimWCYy3Wb6" name="Page-1">
+    <mxGraphModel dx="1422" dy="809" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="06w9jEzFPNs5PboQuSh_-2" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Document&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="40" y="350" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="06w9jEzFPNs5PboQuSh_-3" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=18;endSize=5.69;width=12;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="374.5" as="sourcePoint" />
+            <mxPoint x="180" y="374.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="06w9jEzFPNs5PboQuSh_-4" value="Encoding layer" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="190" y="350" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="06w9jEzFPNs5PboQuSh_-5" value="GRU&lt;br&gt;&amp;nbsp;layer" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="340" y="350" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="06w9jEzFPNs5PboQuSh_-8" value="Prediction layer" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="690" y="350" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="06w9jEzFPNs5PboQuSh_-9" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=18;endSize=5.69;width=12;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="374.5" as="sourcePoint" />
+            <mxPoint x="330" y="374.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
