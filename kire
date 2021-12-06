@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-06T08:17:09.856Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3879.400 QQBrowser/10.8.4552.400" etag="nynw0RWv3sYVpKoloxfW" version="15.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-06T08:17:32.583Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3879.400 QQBrowser/10.8.4552.400" etag="XYEA8J1K_H5KnmbYLCeY" version="15.9.1" type="github">
   <diagram id="pikzheVYUbimWCYy3Wb6" name="Page-1">
     <mxGraphModel dx="1422" dy="809" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -45,6 +45,12 @@
         </mxCell>
         <mxCell id="06w9jEzFPNs5PboQuSh_-13" value="Knowledge Injection&lt;br&gt;&amp;nbsp;layer" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="490" y="350" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="06w9jEzFPNs5PboQuSh_-14" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=18;endSize=5.69;width=12;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="374.5" as="sourcePoint" />
+            <mxPoint x="630" y="374.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
